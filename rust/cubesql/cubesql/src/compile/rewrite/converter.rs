@@ -56,7 +56,6 @@ use datafusion::{
 };
 use egg::{EGraph, Id, RecExpr};
 use itertools::Itertools;
-use log::warn;
 use serde_json::json;
 use std::{
     collections::{HashMap, HashSet},
